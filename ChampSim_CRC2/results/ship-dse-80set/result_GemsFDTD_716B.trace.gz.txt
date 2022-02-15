@@ -1,0 +1,29 @@
+
+*** ChampSim Multicore Out-of-Order Simulator ***
+
+Warmup Instructions: 10000000
+Simulation Instructions: 100000000
+Configuration: 2
+Number of CPUs: 1
+LLC sets: 2048
+LLC ways: 16
+Off-chip DRAM Channels: 1 Width: 64-bit Data Rate: 1600 MT/s
+
+CPU 0 runs /datasets/cs240c-wi22-a00-public/data/Assignment2-gz/GemsFDTD_716B.trace.gz
+CPU 0 L1D next line prefetcher
+CPU 0 L2C IP-based stride prefetcher
+Initialize SRRIP state
+Heartbeat CPU 0 instructions: 1000000 cycles: 415045 heartbeat IPC: 2.40938 cumulative IPC: 2.40938 (Simulation time: 0 hr 0 min 36 sec) 
+Heartbeat CPU 0 instructions: 2000003 cycles: 829979 heartbeat IPC: 2.41003 cumulative IPC: 2.4097 (Simulation time: 0 hr 1 min 15 sec) 
+Heartbeat CPU 0 instructions: 3000000 cycles: 1280233 heartbeat IPC: 2.22096 cumulative IPC: 2.34332 (Simulation time: 0 hr 1 min 51 sec) 
+Heartbeat CPU 0 instructions: 4000000 cycles: 1737265 heartbeat IPC: 2.18803 cumulative IPC: 2.30247 (Simulation time: 0 hr 2 min 29 sec) 
+Heartbeat CPU 0 instructions: 5000000 cycles: 2152246 heartbeat IPC: 2.40975 cumulative IPC: 2.32315 (Simulation time: 0 hr 3 min 6 sec) 
+Heartbeat CPU 0 instructions: 6000000 cycles: 2567262 heartbeat IPC: 2.40955 cumulative IPC: 2.33712 (Simulation time: 0 hr 3 min 43 sec) 
+Heartbeat CPU 0 instructions: 7000000 cycles: 2982265 heartbeat IPC: 2.40962 cumulative IPC: 2.34721 (Simulation time: 0 hr 4 min 20 sec) 
+Heartbeat CPU 0 instructions: 8000000 cycles: 3395192 heartbeat IPC: 2.42174 cumulative IPC: 2.35627 (Simulation time: 0 hr 4 min 57 sec) 
+Heartbeat CPU 0 instructions: 9000003 cycles: 3840362 heartbeat IPC: 2.24634 cumulative IPC: 2.34353 (Simulation time: 0 hr 5 min 40 sec) 
+Heartbeat CPU 0 instructions: 10000002 cycles: 4355033 heartbeat IPC: 1.94299 cumulative IPC: 2.29619 (Simulation time: 0 hr 6 min 30 sec) 
+
+Warmup complete CPU 0 instructions: 10000002 cycles: 4355033 (Simulation time: 0 hr 6 min 30 sec) 
+
+Heartbeat CPU 0 instructions: 11000000 cycles: 7813667 heartbeat IPC: 0.289131 cumulative IPC: 0.289131 (Simulation time: 0 hr 7 min 45 sec) 
